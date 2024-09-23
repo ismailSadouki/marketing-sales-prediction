@@ -3,6 +3,9 @@
 ## Project Overview
 This project involves building a multiple linear regression model to predict sales based on marketing promotion data from a small business. The model uses TV, radio, and influencer marketing as independent variables to estimate sales. The results provide valuable insights into the effectiveness of marketing channels and their impact on sales.
 
+### [Jupyter Notebook](https://github.com/ismailSadouki/marketing-sales-prediction/blob/main/jupyter-notebook.ipynb)
+
+
 ## Business Understanding
 The objective is to help a small business optimize their marketing budget by understanding how different promotional efforts—specifically TV, radio, and influencer campaigns—affect sales. The model will guide future investments by highlighting the most effective channels.
 
