@@ -5,6 +5,11 @@ This project involves building a multiple linear regression model to predict sal
 
 ### [Jupyter Notebook](https://github.com/ismailSadouki/marketing-sales-prediction/blob/main/jupyter-notebook.ipynb)
 
+### [Jupyter Notebook PDF](https://github.com/ismailSadouki/marketing-sales-prediction/blob/main/jupyter-notebook.pdf)
+
+### [Data](https://github.com/ismailSadouki/marketing-sales-prediction/blob/main/marketing_and_sales_data_evaluate_lr.csv)
+
+
 
 ## Business Understanding
 The objective is to help a small business optimize their marketing budget by understanding how different promotional efforts—specifically TV, radio, and influencer campaigns—affect sales. The model will guide future investments by highlighting the most effective channels.
